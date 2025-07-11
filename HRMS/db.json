@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "id": "79eb",
+      "name": "mhabish",
+      "email": "mhabish@mhabish.com",
+      "department": "engineering",
+      "designation": "midlevel",
+      "userType": "hr",
+      "salary": "600000",
+      "password": "1234",
+      "date": "08/07/2025"
+    },
+    {
+      "id": "1f93",
+      "name": "hari",
+      "email": "hari@hari.com",
+      "department": "sales",
+      "designation": "midlevel",
+      "userType": "hr",
+      "salary": "600000",
+      "password": "1234",
+      "date": "08/07/2025"
+    }
+  ]
+}
