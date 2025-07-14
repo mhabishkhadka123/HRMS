@@ -24,6 +24,12 @@ function App() {
 
       </Route>
       </Routes>
+      path ="home"
+      elements ={
+        <protectedRoute>
+          <Home/>
+        </protectedRoute>
+      }
     </>
   );
 }
